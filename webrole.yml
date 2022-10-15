@@ -1,0 +1,16 @@
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: お問合せ一覧確認
+  adx_webroleid: 306d5840-134b-ed11-bba2-002248627c71
+- adx_anonymoususersrole: true
+  adx_authenticatedusersrole: false
+  adx_name: 匿名ユーザー
+  adx_webroleid: ce6be0c6-7d47-ed11-bba3-002248627c71
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: false
+  adx_name: 管理者
+  adx_webroleid: cf6be0c6-7d47-ed11-bba3-002248627c71
+- adx_anonymoususersrole: false
+  adx_authenticatedusersrole: true
+  adx_name: 認証されたユーザー
+  adx_webroleid: d06be0c6-7d47-ed11-bba3-002248627c71

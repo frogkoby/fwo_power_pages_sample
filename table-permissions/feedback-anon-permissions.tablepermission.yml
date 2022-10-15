@@ -1,0 +1,14 @@
+adx_append: true
+adx_appendto: true
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: feedback
+adx_entityname: feedback-anon-permissions
+adx_entitypermission_webrole:
+- ce6be0c6-7d47-ed11-bba3-002248627c71
+- cf6be0c6-7d47-ed11-bba3-002248627c71
+- d06be0c6-7d47-ed11-bba3-002248627c71
+adx_entitypermissionid: 356be0c6-7d47-ed11-bba3-002248627c71
+adx_read: true
+adx_scope: 756150000
+adx_write: true

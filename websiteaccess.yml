@@ -1,0 +1,15 @@
+- adx_managecontentsnippets: false
+  adx_managesitemarkers: false
+  adx_manageweblinksets: false
+  adx_name: 空白のテンプレートのプレビュー アクセス許可
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole: []
+  adx_websiteaccessid: d26be0c6-7d47-ed11-bba3-002248627c71
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
+  adx_name: 空白のテンプレートの管理アクセス許可
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole:
+  - cf6be0c6-7d47-ed11-bba3-002248627c71
+  adx_websiteaccessid: d36be0c6-7d47-ed11-bba3-002248627c71
