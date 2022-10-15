@@ -1,0 +1,28 @@
+- adx_name: Restrict Read on お問合せ一覧
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - cf6be0c6-7d47-ed11-bba3-002248627c71
+  adx_webpageaccesscontrolruleid: 7a46cbf4-5202-5162-d33e-c876460c55e2
+  adx_webpageid: c2e9cf0a-ca3d-5b23-6726-efd1d42f5148
+- adx_name: コンテンツの変更を許可
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole: []
+  adx_webpageaccesscontrolruleid: cc6be0c6-7d47-ed11-bba3-002248627c71
+- adx_name: 管理者に変更を許可
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - cf6be0c6-7d47-ed11-bba3-002248627c71
+  adx_webpageaccesscontrolruleid: cd6be0c6-7d47-ed11-bba3-002248627c71
+  adx_webpageid: bb6be0c6-7d47-ed11-bba3-002248627c71
+- adx_name: Restrict Read on お問い合わせ
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - cf6be0c6-7d47-ed11-bba3-002248627c71
+  - d06be0c6-7d47-ed11-bba3-002248627c71
+  adx_webpageaccesscontrolruleid: db4e4c56-48de-b3ed-0dcd-5f4b823aaf1b
+  adx_webpageid: c16be0c6-7d47-ed11-bba3-002248627c71
+- adx_name: お問合せ一覧表示
+  adx_right: 2
+  adx_webpageaccesscontrolrule_webrole: []
+  adx_webpageaccesscontrolruleid: edeb5c6f-aa4b-ed11-bba2-002248627c71
+  adx_webpageid: c2e9cf0a-ca3d-5b23-6726-efd1d42f5148

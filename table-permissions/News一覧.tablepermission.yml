@@ -1,0 +1,14 @@
+adx_append: false
+adx_appendto: false
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: crb66_fwo_news
+adx_entityname: News一覧
+adx_entitypermission_webrole:
+- ce6be0c6-7d47-ed11-bba3-002248627c71
+- cf6be0c6-7d47-ed11-bba3-002248627c71
+- d06be0c6-7d47-ed11-bba3-002248627c71
+adx_entitypermissionid: 29cf7b6e-a047-ed11-bba3-002248627c71
+adx_read: true
+adx_scope: 756150000
+adx_write: false
