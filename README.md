@@ -1,1 +1,3 @@
-# fwo_power_pages_sample
+# カエル区役所サンプルサイト
+Microsoft Power Pagesで作成したサンプルサイトです。
+架空のカエル区役所をモデルにサイトを作成しています。
